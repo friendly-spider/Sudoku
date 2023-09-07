@@ -6,6 +6,7 @@ Run Sudoku Solver.py
 
 ### Options Available:
 1. Play sudoku
+
 1.1 Enter the coordinates of cell to enter a value in.
 
 1.2 Enter an integer from 1 to 9.
