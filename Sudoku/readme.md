@@ -4,7 +4,7 @@ This program solves any given sudoku puzzle and also has a menu that allows the 
 # Steps to run
 Run Sudoku Solver.py
 
-### Options Available:
+## Options Available
 1. Play sudoku
 
 1.1 Enter the coordinates of cell to enter a value in.
