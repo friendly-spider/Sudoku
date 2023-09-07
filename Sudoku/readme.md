@@ -22,9 +22,11 @@ Hint: User is prompted to enter coordinates which reveals the possible values fo
 cell.
 
 2. Change difficulty
+
 Switch to a different sudoku level.
 
 3. View solution
+
 Solves the sudoku and exits the program
 
 4. Exit
